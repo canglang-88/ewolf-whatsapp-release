@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.1/%E3%80%90%E6%81%B6%E7%8B%BC%E7%BB%84%E3%80%91WhatsApp%E4%B8%93%E7%94%A8-%E5%8F%AF%E5%8F%91%E9%80%81%E7%89%88.zip",
-    "notes":  "新增启动自动检查更新：发现新版本后可自动下载、覆盖程序文件并重启；本地 API、代理、账号和聊天记录不会上传或覆盖。",
-    "publishedAt":  "2026-05-27 07:29:58"
+    "version":  "1.0.2",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.2/%E3%80%90%E6%81%B6%E7%8B%BC%E7%BB%84%E3%80%91WhatsApp%E4%B8%93%E7%94%A8-%E5%8F%AF%E5%8F%91%E9%80%81%E7%89%88.zip",
+    "notes":  "修复其他电脑默认账号头像不显示：默认使用程序自带狼头头像兜底。",
+    "publishedAt":  "2026-05-27 07:37:15"
 }
