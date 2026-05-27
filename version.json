@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.4",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.4/ewolf-whatsapp-v1.0.4.zip",
-    "notes":  "优化自动更新下载窗口，增加下载进度显示和失败提示，减少更新时未响应。"
+    "version":  "1.0.5",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.5/ewolf-whatsapp-v1.0.5.zip",
+    "notes":  "优化左侧新增账号按钮视觉效果。"
 }
