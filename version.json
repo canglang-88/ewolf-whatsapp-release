@@ -1,7 +1,5 @@
 {
-    "version":  "1.0.2",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.2/ewolf-whatsapp-v1.0.2.zip",
-    "notes":  "修复其他电脑默认账号头像不显示：默认使用程序自带狼头头像兜底。",
-    "publishedAt":  "2026-05-27 08:02:20",
-    "assetName":  "ewolf-whatsapp-v1.0.2.zip"
+    "version":  "1.0.3",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.3/ewolf-whatsapp-v1.0.3.zip",
+    "notes":  "界面更新：顶部栏、左侧账号卡、翻译设置面板改为浅色科技蓝风格；聊天区和翻译逻辑保持原样。"
 }
