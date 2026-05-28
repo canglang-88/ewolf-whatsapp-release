@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.7/ewolf-whatsapp-v1.0.7.zip",
-  "notes": "增加 Windows 右下角新消息通知：未读数增加时弹出通知，点击通知可切回对应 WhatsApp 账号。"
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.8/ewolf-whatsapp-v1.0.8.zip",
+    "version":  "1.0.8",
+    "notes":  "更新桌面图标：使用纯狼头实底轮廓，去除多余方形部分，快捷方式优先使用程序目录 icon.ico。"
 }
