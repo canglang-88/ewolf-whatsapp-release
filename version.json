@@ -1,5 +1,1 @@
-{
-  "version": "2.0.1",
-  "url": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.1/ewolf-whatsapp-v2.0.1.zip",
-  "notes": "修复 2.0.1 更新后仍反复提示下载安装的问题；包含 WebView2 Runtime 自动检测和安装；保留现有翻译、代理、缓存、通知和语音识别相关功能。"
-}
+{"version":"2.0.2","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.2/ewolf-whatsapp-v2.0.2.zip","notes":"修复 WhatsApp 语音转文字读取失败问题；新增 WebView2 网络层音频捕获，优先捕获 WhatsApp 语音下载响应，失败时再尝试系统播放声音录制兜底；包含 NAudio 依赖。"}
