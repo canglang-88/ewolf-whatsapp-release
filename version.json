@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-02T19:07:54Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.4/ewolf-whatsapp-v2.0.4.zip","version":"2.0.4","notes":"修复语音转文字显示重叠问题；增强更新检测：除 raw.githubusercontent.com 外，增加 GitHub API 备用版本清单读取，降低旧电脑因 raw 访问失败而不弹更新的概率。"}
+{"updatedAt":"2026-06-02T23:44:27Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.5/ewolf-whatsapp-v2.0.5.zip","version":"2.0.5","notes":"修复账号号码识别范围：不再扫描整个 WhatsApp 页面或缓存里的任意号码，只从自己的 Profile/个人资料面板提取号码，避免联系人卡片里的号码被误识别为当前账号。"}
