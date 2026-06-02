@@ -1,5 +1,5 @@
 {
   "version": "2.0.1",
   "url": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.1/ewolf-whatsapp-v2.0.1.zip",
-  "notes": "更新到 2.0.1：包含 WebView2 Runtime 自动检测和安装；保留现有翻译、代理、缓存、通知和语音识别相关功能。"
+  "notes": "修复 2.0.1 更新后仍反复提示下载安装的问题；包含 WebView2 Runtime 自动检测和安装；保留现有翻译、代理、缓存、通知和语音识别相关功能。"
 }
