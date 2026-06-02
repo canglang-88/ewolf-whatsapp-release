@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v1.0.8/ewolf-whatsapp-v1.0.8.zip",
-    "version":  "1.0.8",
-    "notes":  "更新桌面图标：使用纯狼头实底轮廓，去除多余方形部分，快捷方式优先使用程序目录 icon.ico。"
+  "version": "2.0.1",
+  "url": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.1/ewolf-whatsapp-v2.0.1.zip",
+  "notes": "更新到 2.0.1：包含 WebView2 Runtime 自动检测和安装；保留现有翻译、代理、缓存、通知和语音识别相关功能。"
 }
