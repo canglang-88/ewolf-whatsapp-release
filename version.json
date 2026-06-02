@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-02T23:44:27Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.5/ewolf-whatsapp-v2.0.5.zip","version":"2.0.5","notes":"修复账号号码识别范围：不再扫描整个 WhatsApp 页面或缓存里的任意号码，只从自己的 Profile/个人资料面板提取号码，避免联系人卡片里的号码被误识别为当前账号。"}
+{"updatedAt":"2026-06-02T23:50:56Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.6/ewolf-whatsapp-v2.0.6.zip","version":"2.0.6","notes":"修复账号号码更新不覆盖旧错号的问题：在个人资料页通过“电话号码/Phone number”标签定位号码区域，识别到自己的主页号码后会覆盖左侧账号卡片旧号码。"}
