@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-02T23:50:56Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.6/ewolf-whatsapp-v2.0.6.zip","version":"2.0.6","notes":"修复账号号码更新不覆盖旧错号的问题：在个人资料页通过“电话号码/Phone number”标签定位号码区域，识别到自己的主页号码后会覆盖左侧账号卡片旧号码。"}
+{"version":"2.0.7","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.7/ewolf-whatsapp-v2.0.7.zip","updatedAt":"2026-06-03T19:41:55Z","notes":"新增翻译字体颜色设置，可输入颜色值或打开颜色选择器自由修改翻译/语音识别文字颜色；修复左侧账号拖动排序后普通点击无法切换窗口的问题；保留引用内容不参与翻译、账号主页号码识别、语音转文字等近期修复。"}
