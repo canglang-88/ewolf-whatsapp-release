@@ -1,1 +1,1 @@
-{"version":"2.0.7","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.7/ewolf-whatsapp-v2.0.7.zip","updatedAt":"2026-06-03T19:41:55Z","notes":"新增翻译字体颜色设置，可输入颜色值或打开颜色选择器自由修改翻译/语音识别文字颜色；修复左侧账号拖动排序后普通点击无法切换窗口的问题；保留引用内容不参与翻译、账号主页号码识别、语音转文字等近期修复。"}
+{"version":"2.0.8","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.8/ethereum-whatsapp-v2.0.8.zip","updatedAt":"2026-06-03T19:57:13Z","notes":"全部显示名称由【恶狼组】WhatsApp专用改为【以太坊】WhatsApp专用；启动页标题改为“以太坊”；自动更新弹窗、窗口标题、顶部栏、托盘提示统一使用新名称；新版启动时会自动把旧桌面快捷方式改为“【以太坊】WhatsApp专用”。"}
