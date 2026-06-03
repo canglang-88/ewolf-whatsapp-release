@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-03T21:43:30Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.11/yitaifang-whatsapp-v2.0.11.zip","version":"2.0.11","notes":"修复翻译失败后不再自动重试的问题：失败结果不再缓存，后续扫描会重新请求翻译；优化左侧账号栏，账号多出现滚动条时卡片会自动缩小，避免遮挡和横向滚动条。"}
+{"updatedAt":"2026-06-03T21:58:02Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.12/yitaifang-whatsapp-v2.0.12.zip","version":"2.0.12","notes":"优化翻译失败处理：失败后只自动重试一次，若仍失败则停止自动循环，并显示点击重试，避免一直在“正在翻译/翻译失败”之间重复刷屏和消耗请求。"}
