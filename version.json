@@ -1,1 +1,1 @@
-{"version":"2.0.9","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.9/yitaifang-whatsapp-v2.0.9.zip","updatedAt":"2026-06-03T20:05:02Z","notes":"全部显示名称改为【亿泰坊】WhatsApp专用；启动页标题改为“亿泰坊”；自动更新弹窗、窗口标题、顶部栏、托盘提示统一使用新名称；新版启动时会自动清理旧的【恶狼组】和【以太坊】桌面快捷方式，并生成【亿泰坊】WhatsApp专用快捷方式。"}
+{"updatedAt":"2026-06-03T21:01:48Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.10/yitaifang-whatsapp-v2.0.10.zip","version":"2.0.10","notes":"修复未读消息数量固定多 1；增加后台轮询，不切换账号也能刷新未读通知；优化两次点击发送；聊天记录备份优先保存到解压目录的 程序文件\\ChatArchive；更新启动页和图标。"}
