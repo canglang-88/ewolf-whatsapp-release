@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-03T21:58:02Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.12/yitaifang-whatsapp-v2.0.12.zip","version":"2.0.12","notes":"优化翻译失败处理：失败后只自动重试一次，若仍失败则停止自动循环，并显示点击重试，避免一直在“正在翻译/翻译失败”之间重复刷屏和消耗请求。"}
+{"updatedAt":"2026-06-04T02:41:38Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.13/yitaifang-whatsapp-v2.0.13.zip","version":"2.0.13","notes":"译文支持选中后使用 Ctrl+C 复制，避免 WhatsApp Web 覆盖译文复制内容。"}
