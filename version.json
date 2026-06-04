@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-04T22:30:26Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.14/yitaifang-whatsapp-v2.0.14.zip","version":"2.0.14","notes":"发送实时翻译失败时不再自动重试，直接显示具体失败原因；保留接收消息历史翻译失败的点击重试逻辑；兼容新版 WhatsApp 页面消息识别。"}
+{"updatedAt":"2026-06-04T23:35:45Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.15/yitaifang-whatsapp-v2.0.15.zip","version":"2.0.15","notes":"当 WebView 跑到 WhatsApp 官网页面或错误页时，自动拉回 https://web.whatsapp.com/，避免出现“找不到内容”页面。"}
