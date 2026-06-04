@@ -1,24 +1,23 @@
 # 【亿泰坊】WhatsApp专用 下载指引
 
-当前最新版本：2.0.13
+当前最新版本：2.0.14
 
 ## 直接下载
 
-点击下载：[https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.13/yitaifang-whatsapp-v2.0.13.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.13/yitaifang-whatsapp-v2.0.13.zip)
+点击下载：[yitaifang-whatsapp-v2.0.14.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.14/yitaifang-whatsapp-v2.0.14.zip)
 
 ## 旧版本自动更新
 
-如果电脑可以正常访问 GitHub，已安装旧版本的用户完全退出软件后重新打开，会检测到 2.0.13，并弹出更新提示，点击确认即可自动下载并替换程序文件。
+如果对方电脑可以正常访问 GitHub，并且已经安装旧版本：关闭软件后重新打开，旧版本会检测到 2.0.14，弹窗提示更新，点击确认即可自动下载并替换程序文件。
 
-如果对方电脑访问不了 GitHub，软件不会正常弹出更新提示。请把上面的压缩包链接或下载好的 zip 发给对方手动安装。
+如果对方电脑访问不了 GitHub：软件不会正常弹出更新提示，需要把上面的 zip 下载链接或压缩包发给对方手动更新。
 
 ## 本次更新
 
-- 译文支持选中后直接使用 Ctrl+C 复制。
-- 修复 WhatsApp Web 可能覆盖译文复制内容的问题。
-- 保留翻译失败只自动重试一次，失败后点击重试。
-- 保留聊天记录备份到解压目录：程序文件\ChatArchive。
+- 发送实时翻译失败时不再自动重试，直接显示具体失败原因。
+- 保留接收消息/历史消息翻译失败后的点击重试逻辑。
+- 兼容新版 WhatsApp 页面消息识别，同时保留旧页面识别规则。
 
 ## 使用提示
 
-解压后运行 程序文件\WhatsAppRealtimeTranslator.exe。也可以双击 创建桌面快捷方式.cmd 创建桌面快捷方式。
+解压后运行 程序文件\WhatsAppRealtimeTranslator.exe。
