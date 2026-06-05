@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-05T01:51:05Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.17/yitaifang-whatsapp-v2.0.17.zip","version":"2.0.17","notes":"新增左侧账号栏收起模式，收起后只显示头像并可点击切换账号；头像改为自动识别当前账号头像，避免误抓联系人头像；修复收展时加号按钮残影和快捷方式重复点击唤醒窗口。"}
+{"version":"2.1.1","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.1.1/yitaifang-whatsapp-v2.1.1.zip","notes":"更新左侧账号栏界面：收起按钮彩虹流光效果；优化账号列表滚动条显示，修复闪动、黑线残留和不能拖动的问题；保留昵称识别、发送防重复、翻译显示优化。","updatedAt":"2026-06-05T03:15:39Z"}
