@@ -1,1 +1,1 @@
-{"version":"2.1.1","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.1.1/yitaifang-whatsapp-v2.1.1.zip","notes":"更新左侧账号栏界面：收起按钮彩虹流光效果；优化账号列表滚动条显示，修复闪动、黑线残留和不能拖动的问题；保留昵称识别、发送防重复、翻译显示优化。","updatedAt":"2026-06-05T03:15:39Z"}
+{"version":"2.1.2","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.1.2/yitaifang-whatsapp-v2.1.2.zip","notes":"修复长消息“查看更多”后的完整翻译缓存：完整长消息翻译后会保存完整原文和译文，退出重进折叠时不再重复翻译短内容，点开后优先复用完整译文；优化译文复制，尽量保留表情；保留近期账号昵称/头像识别、发送防重复、左侧滚动条优化等功能。","updatedAt":"2026-06-05T16:31:13Z"}
