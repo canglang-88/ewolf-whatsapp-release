@@ -1,1 +1,1 @@
-{"updatedAt":"2026-06-04T23:35:45Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.15/yitaifang-whatsapp-v2.0.15.zip","version":"2.0.15","notes":"当 WebView 跑到 WhatsApp 官网页面或错误页时，自动拉回 https://web.whatsapp.com/，避免出现“找不到内容”页面。"}
+{"updatedAt":"2026-06-05T00:16:57Z","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v2.0.16/yitaifang-whatsapp-v2.0.16.zip","version":"2.0.16","notes":"补回解压目录中的“创建桌面快捷方式.cmd”，方便用户一键创建桌面快捷方式；同时保留自动拉回 web.whatsapp.com 的修复。"}
