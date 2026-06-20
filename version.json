@@ -1,1 +1,9 @@
-{"version":"5.0.0","url":"https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.0/yitaifang-suite-bootstrap-v5.0.0-net8.zip","notes":"旧版 WhatsApp 单独版将先下载 65MB 过渡更新器，再由过渡更新器继续下载完整 5 合一通讯翻译中枢，避免旧版 5 分钟下载超时导致更新失败。完整包仍保留在下载项：yitaifang-communication-suite-v5.0.0-net8.zip。本版本为 .NET 8 win-x64，不包含 OpenAI Key、登录数据、聊天记录、翻译缓存和日志。","updatedAt":"2026-06-18T16:14:07Z"}
+{
+    "version":  "5.0.1",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.1/yitaifang-suite-bootstrap-v5.0.1-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.1/yitaifang-communication-suite-v5.0.1-net8.zip",
+    "notes":  "纯净四合一通讯翻译中枢：WhatsApp、Google Chat、Google Voice、Gmail。已完全剔除 Signal 模块；不包含 OpenAI Key、登录数据、聊天记录、翻译缓存和日志。旧版自动更新先下载小过渡包，再下载完整包，避免旧版下载超时。完整包内含一键覆盖旧版并启动脚本。",
+    "size":  65556051,
+    "fullSize":  372165522,
+    "updatedAt":  "2026-06-20 08:10:01 +08:00"
+}
