@@ -1,12 +1,12 @@
 {
-    "version":  "5.0.2",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-v5.0.2-net8.zip",
-    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-v5.0.2-net8.zip",
-    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-patch-v5.0.2-net8.zip",
+    "version":  "5.0.3",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-v5.0.3-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-v5.0.3-net8.zip",
+    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-patch-v5.0.3-net8.zip",
     "patchMinVersion":  "5.0.1",
-    "notes":  "新增补丁更新机制；修复窗口最大化切换保持；修复 WhatsApp 群消息引用定位与翻译插入位置；优化 WhatsApp/Google Chat 翻译显示颜色。旧版本走完整包，新版本走补丁包。",
-    "size":  77841573,
-    "fullSize":  77841573,
-    "patchSize":  2303160,
-    "updatedAt":  "2026-06-21 02:53:33 +08:00"
+    "notes":  "修复 5.0.2 更新后仍重复提示更新的问题：统一本地版本号与云端版本号。",
+    "size":  77841590,
+    "fullSize":  77841590,
+    "patchSize":  1095263,
+    "updatedAt":  "2026-06-21 03:33:21 +08:00"
 }
