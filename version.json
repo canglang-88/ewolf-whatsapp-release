@@ -1,9 +1,12 @@
 {
-  "version": "5.0.1",
-  "url": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.1/yitaifang-suite-bootstrap-v5.0.1-net8.zip",
-  "fullUrl": "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.1/yitaifang-communication-suite-v5.0.1-net8.zip",
-  "notes": "纯净四合一通讯翻译中枢：WhatsApp、Google Chat、Google Voice、Gmail。已完全剔除 Signal 模块；不包含 OpenAI Key、登录数据、聊天记录、翻译缓存和日志。旧版自动更新先下载小过渡包，再下载完整包，避免旧版下载超时。完整包内含一键覆盖旧版并启动脚本。",
-  "size": 65556051,
-  "fullSize": 372166865,
-  "updatedAt": "2026-06-20 09:30:00 +08:00"
+    "version":  "5.0.2",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-v5.0.2-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-v5.0.2-net8.zip",
+    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.2/yitaifang-communication-suite-patch-v5.0.2-net8.zip",
+    "patchMinVersion":  "5.0.1",
+    "notes":  "新增补丁更新机制；修复窗口最大化切换保持；修复 WhatsApp 群消息引用定位与翻译插入位置；优化 WhatsApp/Google Chat 翻译显示颜色。旧版本走完整包，新版本走补丁包。",
+    "size":  77841573,
+    "fullSize":  77841573,
+    "patchSize":  2303160,
+    "updatedAt":  "2026-06-21 02:53:33 +08:00"
 }
