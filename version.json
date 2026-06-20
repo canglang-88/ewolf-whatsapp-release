@@ -1,12 +1,12 @@
-{
-    "version":  "5.0.3",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-v5.0.3-net8.zip",
-    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-v5.0.3-net8.zip",
-    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.3/yitaifang-communication-suite-patch-v5.0.3-net8.zip",
+﻿{
+    "version":  "5.0.4",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-v5.0.4-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-v5.0.4-net8.zip",
+    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-patch-v5.0.4-net8.zip",
     "patchMinVersion":  "5.0.1",
-    "notes":  "修复 5.0.2 更新后仍重复提示更新的问题：统一本地版本号与云端版本号。",
-    "size":  77841590,
-    "fullSize":  77841590,
-    "patchSize":  1095263,
-    "updatedAt":  "2026-06-21 03:33:21 +08:00"
+    "notes":  "修复 Google Voice 翻译失败：GV 会自动继承 WhatsApp 的 OpenAI API 地址、KEY 和模型；GV 自己填写的 KEY 仍优先使用；翻译失败时显示真实错误原因。",
+    "size":  77843751,
+    "fullSize":  77843751,
+    "patchSize":  1712740,
+    "updatedAt":  "2026-06-21 07:19:04 +08:00"
 }
