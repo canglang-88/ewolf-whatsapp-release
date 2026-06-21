@@ -1,12 +1,12 @@
 {
-    "version":  "5.0.4",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-v5.0.4-net8.zip",
-    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-v5.0.4-net8.zip",
-    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-patch-v5.0.4-net8.zip",
+    "version":  "5.0.6",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.6/yitaifang-communication-suite-v5.0.6-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.6/yitaifang-communication-suite-v5.0.6-net8.zip",
+    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.6/yitaifang-communication-suite-patch-v5.0.6-net8.zip",
     "patchMinVersion":  "5.0.1",
-    "notes":  "修复 Google Voice 翻译失败：GV 会自动继承 WhatsApp 的 OpenAI API 地址、KEY 和模型；GV 自己填写的 KEY 仍优先使用；翻译失败时显示真实错误原因。",
-    "size":  77843751,
-    "fullSize":  77843751,
-    "patchSize":  1712740,
-    "updatedAt":  "2026-06-21 07:19:04 +08:00"
+    "notes":  "中枢统一更新：由中枢入口检查更新，更新后重启中枢；Google Voice 和 Google Chat 统一使用 WhatsApp 的 OpenAI API 地址、KEY 和模型，模块内只保留翻译开关等独立设置。",
+    "size":  77845555,
+    "fullSize":  77845555,
+    "patchSize":  2306770,
+    "updatedAt":  "2026-06-21 09:31:59 +08:00"
 }
