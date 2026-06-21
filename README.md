@@ -1,19 +1,19 @@
-﻿# 【亿泰坊】通讯翻译中枢 下载指引
+# 【亿泰坊】通讯翻译中枢 下载指引
 
-当前最新版本：5.0.4
+当前最新版本：5.0.6
 
 ## 直接下载完整包
 
-点击下载：[yitaifang-communication-suite-v5.0.4-net8.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-v5.0.4-net8.zip)
+点击下载：[yitaifang-communication-suite-v5.0.6-net8.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.6/yitaifang-communication-suite-v5.0.6-net8.zip)
 
 ## 自动更新
 
-有自动更新功能的旧版，关闭软件后重新打开即可检测到 5.0.4。
+有自动更新功能的版本，关闭软件后重新打开中枢即可检测到 5.0.6。
 
-- 5.0.1 及以上版本会优先下载补丁包：[yitaifang-communication-suite-patch-v5.0.4-net8.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.4/yitaifang-communication-suite-patch-v5.0.4-net8.zip)
-- 更早版本会下载完整包。
-- 本版修复 Google Voice 翻译失败：GV 会自动继承 WhatsApp 的 OpenAI API 地址、KEY 和模型；如果 GV 自己单独填写 KEY，则优先使用 GV 自己的配置。
-- 翻译失败时会显示真实原因，例如 KEY 错误、额度不足、网络超时或接口地址不可用。
+- 5.0.1 及以上版本会优先下载补丁包：[yitaifang-communication-suite-patch-v5.0.6-net8.zip](https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.6/yitaifang-communication-suite-patch-v5.0.6-net8.zip)
+- 更早版本或没有更新入口的旧包，需要手动下载完整包覆盖一次。
+- 本版开始按中枢整体更新逻辑处理：中枢检查更新、覆盖整套外壳内对应模块文件、更新后重启中枢。
+- Google Voice 和 Google Chat 使用 WhatsApp 的翻译 API 地址、KEY 和模型；模块内只保留翻译开关、语言、颜色等独立设置。
 
 ## 不包含内容
 
