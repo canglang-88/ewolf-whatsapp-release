@@ -1,12 +1,14 @@
 {
-    "version":  "5.0.7",
-    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.7/yitaifang-communication-suite-v5.0.7-net8.zip",
-    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.7/yitaifang-communication-suite-v5.0.7-net8.zip",
-    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.7/yitaifang-communication-suite-patch-v5.0.7-net8.zip",
+    "version":  "5.0.8",
+    "url":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.8/yitaifang-communication-suite-v5.0.8-net8.zip",
+    "fullUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.8/yitaifang-communication-suite-v5.0.8-net8.zip",
+    "patchUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.8/yitaifang-communication-suite-patch-v5.0.8-net8.zip",
+    "oneClickUrl":  "https://github.com/canglang-88/ewolf-whatsapp-release/releases/download/v5.0.8/yitaifang-suite-one-click-update-v5.0.8.zip",
     "patchMinVersion":  "5.0.1",
-    "notes":  "中枢整体更新逻辑增强：补丁优先、完整包兜底、下载前清理旧残包、覆盖时更稳地替换程序文件；启动页显示中枢版本；清理源码可见乱码；Google Voice 和 Google Chat 继续共用 WhatsApp 的 OpenAI API 设置。",
-    "size":  77845896,
-    "fullSize":  77845896,
-    "patchSize":  2307111,
-    "updatedAt":  "2026-06-21 09:58:22 +08:00"
+    "notes":  "5.0.8：修正新安装没有旧快捷方式时无法创建的问题；修正更新器乱码；更新失败时补丁自动切完整包；加入 ACL 权限修复，降低别人电脑打不开、写不进去或覆盖失败的概率；版本号升至 5.0.8，避免 5.0.7 重复提示。",
+    "size":  77803528,
+    "fullSize":  77803528,
+    "patchSize":  6246042,
+    "oneClickSize":  143358146,
+    "updatedAt":  "2026-06-22 06:07:49 +08:00"
 }
